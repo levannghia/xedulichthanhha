@@ -1,0 +1,6 @@
+66.249.79.163()--query--tables(delete from table_user_online where time < 1639202040) (13:04:00 11/12/2021)
+66.249.79.163()--update--product([["","id","=","50"]]) (13:04:00 11/12/2021)
+66.249.79.166()--query--tables(delete from table_user_online where time < 1639219023) (17:47:03 11/12/2021)
+66.249.79.169()--query--tables(delete from table_user_online where time < 1639219698) (17:58:18 11/12/2021)
+66.249.79.166()--query--tables(delete from table_user_online where time < 1639227223) (20:03:43 11/12/2021)
+66.249.79.163()--query--tables(delete from table_user_online where time < 1639229825) (20:47:05 11/12/2021)

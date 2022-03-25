@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SVN-Hemi Head';
+    src: url('SVN-HemiHead.eot');
+    src: url('SVN-HemiHead.eot?#iefix') format('embedded-opentype'),
+        url('SVN-HemiHead.woff2') format('woff2'),
+        url('SVN-HemiHead.woff') format('woff'),
+        url('SVN-HemiHead.ttf') format('truetype'),
+        url('SVN-HemiHead.svg#SVN-HemiHead') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,2 @@
+49.213.78.31()--query--tables(delete from table_user_online where time < 1624858460) (12:44:20 28/06/2021)
+49.213.78.31()--query--tables(delete from table_user_online where time < 1624878060) (18:11:00 28/06/2021)
